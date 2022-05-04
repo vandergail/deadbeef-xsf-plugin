@@ -1,0 +1,27 @@
+[submodule "Highly_Theoretical"]
+	path = Highly_Theoretical
+	url = https://bitbucket.org/losnoco/highly_theoretical.git
+[submodule "viogsf"]
+	path = viogsf
+	url = https://bitbucket.org/losnoco/viogsf.git
+[submodule "vio2sf"]
+	path = vio2sf
+	url = https://bitbucket.org/losnoco/vio2sf.git
+[submodule "psflib"]
+	path = psflib
+	url = https://bitbucket.org/losnoco/psflib.git
+[submodule "mGBA"]
+	path = mGBA
+	url = https://github.com/mgba-emu/mgba.git
+[submodule "Highly_Quixotic"]
+	path = Highly_Quixotic
+	url = https://bitbucket.org/losnoco/highly_quixotic.git
+[submodule "Highly_Experimental"]
+	path = Highly_Experimental
+	url = https://bitbucket.org/losnoco/highly_experimental.git
+[submodule "lazyusf2"]
+	path = lazyusf2
+	url = https://github.com/joshware/lazyusf2.git
+[submodule "aopsf"]
+	path = aopsf
+	url = https://bitbucket.org/losnoco/aopsf.git
