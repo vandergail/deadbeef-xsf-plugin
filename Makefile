@@ -1,7 +1,7 @@
 PLUGIN = xsf.so
 
 CFLAGS = -O2 -fPIC -c
-LDFLAGS = -fPIC -shared /usr/lib/libmgba.so.0.8 -lz
+LDFLAGS = -fPIC -shared /usr/lib/libmgba.so -lz
 
 PSFLIB_OBJS    = psflib/psflib.o psflib/psf2fs.o
 
